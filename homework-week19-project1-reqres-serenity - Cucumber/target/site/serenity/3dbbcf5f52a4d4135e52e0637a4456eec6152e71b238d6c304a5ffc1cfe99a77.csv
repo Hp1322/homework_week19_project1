@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Reqres CURD test with steps","This will create new user","SUCCESS","2022-06-05T20:53:33.699+01:00[Europe/London]","0.0","1.88"
+"Reqres CURD test with steps","User will login with credentials","SUCCESS","2022-06-05T20:53:36.003+01:00[Europe/London]","0.0","0.2"
+"Reqres CURD test with steps","Delete the user and verify if the user is deleted!","SUCCESS","2022-06-05T20:53:36.199+01:00[Europe/London]","0.0","0.33"
